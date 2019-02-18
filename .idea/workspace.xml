@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10822d48-3436-403f-9f28-4e4ee6e43394" name="Default Changelist" comment="" />
+    <list default="true" id="10822d48-3436-403f-9f28-4e4ee6e43394" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thinking-in-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Thinking-in-Java.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< Updated upstream
     <option name="isMigrated" value="true" />
+=======
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+>>>>>>> Stashed changes
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -53,7 +62,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_5/DataOnly.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
+<<<<<<< Updated upstream
               <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+=======
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -62,7 +75,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_6/Storage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
+<<<<<<< Updated upstream
               <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+=======
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#77#78#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
@@ -88,7 +105,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_8/StaticFieldExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
+<<<<<<< Updated upstream
               <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+=======
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -104,6 +125,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_10/ConsoleArgs.java">
+<<<<<<< Updated upstream
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
@@ -120,6 +142,20 @@
                 <element signature="e#150#151#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
               </folding>
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_11/AllTheColorsOfTheRainbow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -146,6 +182,21 @@
         <option value="$PROJECT_DIR$/src/Goose.java" />
         <option value="$PROJECT_DIR$/src/Penguin.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/src/chapter_2/task_1/DefaultInit.java" />
+        <option value="$PROJECT_DIR$/.idea/src/chapter2/task2/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/.idea/src/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/.idea/src/chapter_2/task_2/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/.idea/src/main/java/chapter_2/task_2/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/.idea/src/main/java/chapter_2/task_3/ATypeName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_4/DataOnly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_5/DataOnly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_6/Storage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_7/Incrementable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_8/StaticFieldExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_9/PrimitiveAutoBoxing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_10/ConsoleArgs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_2/task_11/AllTheColorsOfTheRainbow.java" />
       </list>
     </option>
   </component>
@@ -158,10 +209,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -202,6 +252,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_2" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< Updated upstream
+=======
+            <path>
+              <item name="Thinking-in-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_2" type="462c0819:PsiDirectoryNode" />
+              <item name="task_11" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> Stashed changes
           </expand>
           <select />
         </subPane>
@@ -213,12 +275,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549540104788" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\Desktop\thinking_in_Java\Thinking-in-Java" />
+      <recent name="C:\Users\Home\Desktop\thinking_in_Java\Thinking-in-Java\.idea\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,17 +301,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.AllTheColorsOfTheRainbow">
+    <configuration name="AllTheColorsOfTheRainbow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.task_11.AllTheColorsOfTheRainbow" />
       <module name="Thinking-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_2.task_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConsoleArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.task_10.ConsoleArgs" />
+      <module name="Thinking-in-Java" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_2.task_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.task2.HelloWorld" />
+      <module name="Thinking-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_2.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Incrementable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.task_7.Incrementable" />
+      <module name="Thinking-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_2.task_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitiveAutoBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.task_9.PrimitiveAutoBoxing" />
+      <module name="Thinking-in-Java" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_2.task_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticFieldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.task_8.StaticFieldExample" />
+      <module name="Thinking-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_2.task_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Incrementable" />
+      <item itemvalue="Application.PrimitiveAutoBoxing" />
+      <item itemvalue="Application.StaticFieldExample" />
+      <item itemvalue="Application.ConsoleArgs" />
+      <item itemvalue="Application.AllTheColorsOfTheRainbow" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AllTheColorsOfTheRainbow" />
+        <item itemvalue="Application.ConsoleArgs" />
+        <item itemvalue="Application.PrimitiveAutoBoxing" />
+        <item itemvalue="Application.StaticFieldExample" />
+        <item itemvalue="Application.Incrementable" />
       </list>
     </recent_temporary>
   </component>
@@ -257,10 +410,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549532955410</updated>
       <workItem from="1549532958573" duration="2119000" />
+      <workItem from="1550508051022" duration="2656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="2180000" />
   </component>
   <component name="ToolWindowManager">
@@ -272,20 +427,42 @@
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
+=======
+    <option name="totallyTimeSpent" value="4775000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+>>>>>>> Stashed changes
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,9 +478,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Thinking-in-Java.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/Thinking-in-Java/Main.class" />
     <entry file="file://$PROJECT_DIR$/src/Parent.java" />
     <entry file="file://$PROJECT_DIR$/src/Bird.java" />
@@ -312,6 +486,139 @@
     <entry file="file://$PROJECT_DIR$/src/Goose.java" />
     <entry file="file://$PROJECT_DIR$/src/Penguin.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/out/production/Thinking-in-Java/Main.class" />
+    <entry file="file://$PROJECT_DIR$/src/Parent.java" />
+    <entry file="file://$PROJECT_DIR$/src/Bird.java" />
+    <entry file="file://$PROJECT_DIR$/src/Child.java" />
+    <entry file="file://$PROJECT_DIR$/src/BirdController.java" />
+    <entry file="file://$PROJECT_DIR$/src/Goose.java" />
+    <entry file="file://$PROJECT_DIR$/src/Penguin.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_1/DefaultInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_2/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_3/ATypeName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_4/DataOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_5/DataOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_6/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_7/Incrementable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_8/StaticFieldExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_9/PrimitiveAutoBoxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_10/ConsoleArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_2/task_11/AllTheColorsOfTheRainbow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
   </component>
   <component name="masterDetails">
     <states>
@@ -341,6 +648,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>bootstrap</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
